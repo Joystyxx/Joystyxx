@@ -83,7 +83,7 @@ Data platform ingesting Nigerian grid load, demand, outage, and solar resource d
 
 ## Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-styxfolio.vercel.app-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://styxfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-styxfolio.vercel.app-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://olawale-afolayan-styx-ai.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-afolayanolawale-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afolayanolawale/)
 [![Email](https://img.shields.io/badge/Email-afolayan.olawale001@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:afolayan.olawale001@gmail.com)
 
