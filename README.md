@@ -2,7 +2,7 @@
 
 **Data Engineer** | End-to-End Data Systems that turn raw data into production AI.
 
-I design and ship data infrastructure across ingestion, transformation, orchestration, and serving. My work focuses on streaming architectures, data quality enforcement, and cloud-native deployment. Two years of hands-on experience delivering production pipelines for analytics and ML.
+I design and ship data infrastructure across ingestion, transformation, orchestration, and serving. My work focuses on streaming architectures, data quality enforcement, and cloud-native deployment. Three years plus of hands-on experience delivering production pipelines for analytics and ML.
 
 Background in Applied Geophysics. Working with large earth datasets taught me that clean, validated, well-structured data is the foundation of every downstream decision. That path led me into data engineering.
 
