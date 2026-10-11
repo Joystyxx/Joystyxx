@@ -1,84 +1,83 @@
 # Olawale Afolayan
 
-**Data Engineer** · Building pipelines that feed decisions, not dashboards that collect dust.
+**Data Engineer** | End-to-End Data Systems that turn raw data into production AI.
 
-I design and ship end-to-end data systems — ingestion, transformation, orchestration, and serving. My work sits at the intersection of **production data infrastructure** and **renewable energy**, with a focus on real-time streaming, ML-ready pipelines, and cloud-native deployment.
+I design and ship data infrastructure across ingestion, transformation, orchestration, and serving. My work focuses on streaming architectures, data quality enforcement, and cloud-native deployment. Two years of hands-on experience delivering production pipelines for analytics and ML.
 
-Background in Applied Geophysics. Moved into data engineering through geoscience — working with large earth datasets taught me that clean, validated, well-structured data is the foundation of everything downstream.
+Background in Applied Geophysics. Working with large earth datasets taught me that clean, validated, well-structured data is the foundation of every downstream decision. That path led me into data engineering.
 
-📍 Lagos, Nigeria · 🌍 Open to remote roles
+Lagos, Nigeria | Open to remote roles
 
 ---
 
 ## What I'm Working On
 
-- 🔋 **BESS Optimization & Trading Platform** — real-time battery telemetry + market price ingestion, Flink stream processing, LP/MPC dispatch optimization, FastAPI serving
-- 🛡️ **Real-Time Fraud Detection Platform** — Kafka + Flink windowed aggregations, Feast feature store, XGBoost + River ensemble, sub-50ms scoring on EKS
-- ⚡ **Nigeria Grid & Mini-Grid Intelligence** — dbt + XGBoost + PuLP pipeline ingesting real Nigerian grid data
+- **Real-Time Fraud Detection Platform** | Kafka and Flink windowed aggregations, Feast feature store, XGBoost and River ensemble, sub-50ms scoring on EKS
+- **BESS Optimization and Trading Platform** | Real-time battery telemetry and market price ingestion, Flink stream processing, LP/MILP/MPC dispatch optimization, FastAPI serving
 
 ---
 
 ## Featured Projects
 
-### [Prediction Market Data Pipeline & Intelligence](https://linera-ecosystem-intelligence.streamlit.app)
-End-to-end analytics platform for a live prediction market. Snapshot-aware pipeline processing 300k+ records with automated daily ETL, clustering + PCA models, and two live ML inference models served through a 10-page Streamlit dashboard.
-`Python · PostgreSQL · GitHub Actions · Streamlit · scikit-learn`
+### [Prediction Market Data Pipeline and Intelligence](https://linera-ecosystem-intelligence.streamlit.app)
+End-to-end analytics platform for a live prediction market. Snapshot-aware pipeline processing 300k+ records with automated daily ETL, clustering and PCA models, and two live ML inference models served through a 10-page Streamlit dashboard.
+`Python | PostgreSQL | GitHub Actions | Streamlit | scikit-learn`
 
 ### [Marketplace Contributor Intelligence](https://xora-intelligence.streamlit.app)
 Contributor analytics system with time-series schema design in Neon PostgreSQL. Automated ingestion, validation, and persistence with database-level constraints.
-`Python · Neon PostgreSQL · GitHub Actions · Streamlit`
-
-### [BESS Optimization & Trading Platform](https://github.com/Joystyxx)
-Real-time BESS platform ingesting 768-cell battery telemetry (1 Hz) and European market prices. Flink stream processing, XGBoost price forecasting, LP/MILP/MPC dispatch optimization.
-`Python · Kafka · Flink · Iceberg · dbt · FastAPI · Terraform · EKS`
+`Python | Neon PostgreSQL | GitHub Actions | Streamlit`
 
 ### [Nigeria Grid Intelligence Platform](https://github.com/Joystyxx)
-Data platform ingesting Nigerian grid load, demand, outage, and solar resource data. XGBoost grid instability prediction, BESS dispatch optimization, mini-grid viability scoring.
-`Python · dbt · XGBoost · PuLP · Streamlit · PostgreSQL`
+Data platform ingesting Nigerian grid load, demand, outage, and solar resource data. XGBoost grid instability prediction, BESS dispatch optimization using linear programming, and mini-grid viability scoring.
+`Python | dbt | XGBoost | PuLP | Streamlit | PostgreSQL`
 
 ---
 
 ## Tech Stack
 
 **Languages**
-`Python` · `SQL` · `Bash` · `TypeScript (working)`
+`Python` | `SQL` | `Bash` | `TypeScript (working)`
 
 **Data Engineering**
-`Apache Kafka` · `Apache Flink` · `Apache Spark` · `dbt` · `Dagster` · `Airflow`
+`Apache Kafka` | `Apache Flink` | `Apache Spark` | `dbt` | `Dagster` | `Airflow`
 
-**Storage & Databases**
-`PostgreSQL` · `TimescaleDB` · `Redis` · `Apache Iceberg` · `Delta Lake` · `S3` · `ClickHouse`
+**Storage and Databases**
+`PostgreSQL` | `TimescaleDB` | `Redis` | `Apache Iceberg` | `Delta Lake` | `S3` | `ClickHouse`
 
-**ML & Optimization**
-`XGBoost` · `scikit-learn` · `River` · `PuLP + HiGHS` · `CasADi + IPOPT` · `MLflow` · `Feast`
+**ML and Optimization**
+`XGBoost` | `scikit-learn` | `River` | `PuLP + HiGHS` | `CasADi + IPOPT` | `MLflow` | `Feast`
 
-**Backend & Serving**
-`FastAPI` · `Streamlit` · `REST APIs` · `WebSockets`
+**Backend and Serving**
+`FastAPI` | `Streamlit` | `REST APIs` | `WebSockets`
 
-**Cloud & Infrastructure**
-`AWS (S3, EKS, MSK, Lambda, KMS)` · `Docker` · `Kubernetes` · `Terraform` · `Helm` · `ArgoCD`
+**Cloud and Infrastructure**
+`AWS (S3, EKS, MSK, Lambda, KMS)` | `Docker` | `Kubernetes` | `Terraform` | `Helm` | `ArgoCD`
 
-**Data Quality & Governance**
-`Great Expectations` · `Presidio` · `Lake Formation` · `OpenLineage` · `DataHub`
+**Data Quality and Governance**
+`Great Expectations` | `Presidio` | `Lake Formation` | `OpenLineage` | `DataHub`
 
 **Observability**
-`Prometheus` · `Grafana` · `OpenTelemetry`
+`Prometheus` | `Grafana` | `OpenTelemetry`
 
 ---
 
 ## Currently Learning
 
-- Advanced MLOps patterns (online learning, drift detection)
-- Distributed optimization with MPC for energy systems
-- French (for Francophone Africa energy markets)
+- **Real-time stream processing with Flink**: windowing strategies, watermark handling, and state management for high-volume event streams
+- **MLOps for production systems**: feature store patterns, online learning, and drift detection with River and ADWIN
+- **Cloud-native data infrastructure**: Terraform modules, Kubernetes deployments on EKS, and GitOps workflows with ArgoCD
+- **Distributed optimization for energy systems**: linear programming, mixed-integer programming, and model predictive control for battery dispatch
+- **Data contracts and governance at scale**: schema enforcement, lineage tracking, and column-level access control across lakehouse architectures
 
 ---
 
 ## GitHub Stats
 
-![Olawale's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joystyxx&show_icons=true&theme=swift&hide_border=true&count_private=true)
+![Olawale's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joystyxx&show_icons=true&theme=swift&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joystyxx&layout=compact&theme=swift&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joystyxx&layout=compact&theme=swift&hide_border=true&langs_count=10)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Joystyxx&theme=swift&hide_border=true)
 
 ---
 
@@ -90,4 +89,4 @@ Data platform ingesting Nigerian grid load, demand, outage, and solar resource d
 
 ---
 
-*I build data systems that run without me. If that's the kind of engineering you need, let's talk.*
+*I build data systems that run without me. If that is the kind of engineering you need, let's talk.*
