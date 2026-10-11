@@ -27,7 +27,7 @@ End-to-end analytics platform for a live prediction market. Snapshot-aware pipel
 Contributor analytics system with time-series schema design in Neon PostgreSQL. Automated ingestion, validation, and persistence with database-level constraints.
 `Python | Neon PostgreSQL | GitHub Actions | Streamlit`
 
-### [Nigeria Grid Intelligence Platform](https://github.com/Joystyxx)
+### [Nigeria Grid Intelligence Platform](http://51.21.191.10:8501/)
 Data platform ingesting Nigerian grid load, demand, outage, and solar resource data. XGBoost grid instability prediction, BESS dispatch optimization using linear programming, and mini-grid viability scoring.
 `Python | dbt | XGBoost | PuLP | Streamlit | PostgreSQL`
 
